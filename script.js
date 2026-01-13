@@ -12,8 +12,9 @@
       "ui.ctaCV": "Download CV",
       "ui.ctaLinkedIn": "LinkedIn",
 
-      "hero.eyebrow": "Finance Director / CFO-style",
-      "hero.subtitle": "I help tech companies structure growth, secure funding, and stay in control of cash, margins, and risk.",
+      "hero.eyebrow": "Finance Director / CFO",
+      "hero.subtitle":
+        "I help tech companies structure growth, secure funding, and stay in control of cash, margins, and risk.",
       "hero.pills.p1": "Strategic finance",
       "hero.pills.p2": "Cash & runway",
       "hero.pills.p3": "SaaS & hybrid models",
@@ -32,52 +33,77 @@
       "hero.card.badge": "Corporate → Entrepreneur → Tech scale-up",
 
       "about.title": "About",
-      "about.subtitle": "A finance leader bridging strategy and execution across corporate, entrepreneurship, and tech.",
-      "about.p1": "Results-driven financial leader with experience spanning large corporates (Henkel, L’Oréal), entrepreneurship, and tech scale-ups.",
-      "about.p2": "I specialize in financial strategy, cash flow optimization, and decision support for leadership teams — turning complex data into clear actions.",
-      "about.p3": "I partner closely with CEOs, CTOs, and commercial leaders to align finance with product, go-to-market, and growth objectives through pragmatic models, transparent reporting, and disciplined execution.",
+      "about.subtitle":
+        "A finance leader bridging strategy and execution across corporate, entrepreneurship, and tech.",
+      "about.p1":
+        "The quality of a company’s decisions directly reflects the quality of its financial strategy.",
+      "about.p2":
+        "I’m passionate about finance at the intersection of strategy and execution. I built my career across global corporates (Henkel, L’Oréal, SoLocal), entrepreneurship, and tech scale-ups (SmartPixel, Studia), with one constant: turning financial complexity into clear, actionable decisions.",
+      "about.p3":
+        "I specialize in financial strategy, cash management, structuring, and decision support. My approach is deliberately pragmatic: simple but robust models, readable reporting, and execution discipline that serves the business — not the other way around.",
+      "about.p4":
+        "I work closely with CEOs, CTOs, and commercial leadership to align finance, product, go-to-market, and growth. My role isn’t only to secure the numbers — it’s to create a financial framework that helps teams decide faster, arbitrate wisely, and execute with confidence.",
 
       "experience.title": "Experience",
       "experience.subtitle": "Selected roles focused on impact and scope.",
       "experience.r1.title": "Financial Director — SmartPixel",
       "experience.r1.meta": "Montréal, Canada • Nov 2023 – Present",
-      "experience.r1.b1": "Led the financial structuring of a new SaaS platform, including pricing logic, recurring revenue models, and hybrid product-service margins.",
-      "experience.r1.b2": "Secured $525K+ in financing and built multi-year projections (2025–2028); supported negotiations with banks, partners, and public institutions.",
-      "experience.r1.b3": "Designed models integrating RS&DE and CDAE credits to optimize non-dilutive funding and profitability.",
-      "experience.r1.b4": "Own cash flow, budgeting, forecasting, reporting, and governance; oversee accounting, compliance, AR/AP, and payroll.",
+      "experience.r1.b1":
+        "Led the financial structuring of a new SaaS platform, including pricing logic, recurring revenue models, and hybrid product-service margins.",
+      "experience.r1.b2":
+        "Secured $525K+ in financing and built multi-year projections (2025–2028); supported negotiations with banks, partners, and public institutions.",
+      "experience.r1.b3":
+        "Designed models integrating RS&DE and CDAE credits to optimize non-dilutive funding and profitability.",
+      "experience.r1.b4":
+        "Own cash flow, budgeting, forecasting, reporting, and governance; oversee accounting, compliance, AR/AP, and payroll.",
 
       "experience.r2.title": "Financial Controller — SmartPixel",
       "experience.r2.meta": "Montréal, Canada • Jun 2022 – Nov 2023",
-      "experience.r2.b1": "Managed AR/AP, payroll, and monthly close; prepared monthly financial statements.",
-      "experience.r2.b2": "Reconciled balance sheet and P&L accounts; contributed to annual budget forecasts.",
-      "experience.r2.b3": "Structured and led the accounting team during a period of growth.",
+      "experience.r2.b1":
+        "Managed AR/AP, payroll, and monthly close; prepared monthly financial statements.",
+      "experience.r2.b2":
+        "Reconciled balance sheet and P&L accounts; contributed to annual budget forecasts.",
+      "experience.r2.b3":
+        "Structured and led the accounting team during a period of growth.",
 
       "experience.r3.title": "Sales Controller & Credit Manager — Henkel (Beauty Care)",
       "experience.r3.meta": "Paris, France • Jan 2021 – Jan 2022",
-      "experience.r3.b1": "Owned budget control and back-margin management (rebates, cooperation fees, payment terms).",
-      "experience.r3.b2": "Automated billing/data workflows (SAP & Access) and improved reporting visibility with IT.",
-      "experience.r3.b3": "Delivered financial analyses supporting pricing, promotions, margin optimization, and audit readiness.",
+      "experience.r3.b1":
+        "Owned budget control and back-margin management (rebates, cooperation fees, payment terms).",
+      "experience.r3.b2":
+        "Automated billing/data workflows (SAP & Access) and improved reporting visibility with IT.",
+      "experience.r3.b3":
+        "Delivered financial analyses supporting pricing, promotions, margin optimization, and audit readiness.",
 
-      "experience.r4.title": "Credit Manager / Pricing Manager — L’Oréal (Travel Retail, Middle East)",
+      "experience.r4.title":
+        "Credit Manager / Pricing Manager — L’Oréal (Travel Retail, Middle East)",
       "experience.r4.meta": "Paris, France • Dec 2019 – Dec 2020",
-      "experience.r4.b1": "Led pricing studies and created client price lists aligned with commercial strategy and profitability goals.",
-      "experience.r4.b2": "Managed end-to-end credit and rebate processes; improved payment timelines and compliance.",
-      "experience.r4.b3": "Built analyses on margin performance and customer profitability to inform decisions.",
+      "experience.r4.b1":
+        "Led pricing studies and created client price lists aligned with commercial strategy and profitability goals.",
+      "experience.r4.b2":
+        "Managed end-to-end credit and rebate processes; improved payment timelines and compliance.",
+      "experience.r4.b3":
+        "Built analyses on margin performance and customer profitability to inform decisions.",
 
       "experience.r5.title": "Founder & President — L’Odyssée Verte",
       "experience.r5.meta": "France • 2019 – 2020",
-      "experience.r5.b1": "Founded and led an environmental and educational multimedia project; managed partnerships, fundraising, and delivery.",
+      "experience.r5.b1":
+        "Founded and led an environmental and educational multimedia project; managed partnerships, fundraising, and delivery.",
 
       "projects.title": "Projects",
-      "projects.subtitle": "A few initiatives I’m proud of. (We’ll refine once you list your side projects.)",
+      "projects.subtitle":
+        "A few initiatives I’m proud of. (We’ll refine once you list your side projects.)",
       "projects.p1.title": "SaaS Platform Financial Structuring",
-      "projects.p1.text": "Built pricing logic, recurring revenue models, and hybrid margins to support scalable growth.",
+      "projects.p1.text":
+        "Built pricing logic, recurring revenue models, and hybrid margins to support scalable growth.",
       "projects.p1.meta": "SmartPixel • Finance strategy",
       "projects.p2.title": "Funding & Non-Dilutive Strategy",
-      "projects.p2.text": "Secured financing and optimized RS&DE/CDAE credits with governance and reporting.",
+      "projects.p2.text":
+        "Secured financing and optimized RS&DE/CDAE credits with governance and reporting.",
       "projects.p2.meta": "Financing • Credits • Compliance",
       "projects.p3.title": "Process & Reporting Modernization",
-      "projects.p3.text": "Improved reporting cadence and decision support through better models and operational discipline.",
+      "projects.p3.text":
+        "Improved reporting cadence and decision support through better models and operational discipline.",
       "projects.p3.meta": "FP&A • Controls",
 
       "skills.title": "Skills",
@@ -101,7 +127,7 @@
       "contact.location": "Location",
       "contact.linkedin": "LinkedIn",
       "contact.emailBtn": "Email me",
-      "contact.cvBtn": "Open CV (PDF)"
+      "contact.cvBtn": "Open CV (PDF)",
     },
 
     fr: {
@@ -117,7 +143,8 @@
       "ui.ctaLinkedIn": "LinkedIn",
 
       "hero.eyebrow": "Directeur financier / CFO-style",
-      "hero.subtitle": "J’aide les entreprises tech à structurer leur croissance, sécuriser leurs financements et piloter cash, marges et risques.",
+      "hero.subtitle":
+        "J’aide les entreprises tech à structurer leur croissance, sécuriser leurs financements et piloter cash, marges et risques.",
       "hero.pills.p1": "Finance stratégique",
       "hero.pills.p2": "Trésorerie & runway",
       "hero.pills.p3": "SaaS & modèles hybrides",
@@ -136,52 +163,76 @@
       "hero.card.badge": "Corporate → Entrepreneur → Tech scale-up",
 
       "about.title": "À propos",
-      "about.subtitle": "Un profil finance qui relie stratégie et exécution : corporate, entrepreneuriat et tech.",
-      "about.p1": "Cadre financier orienté résultats, avec une expérience entre grands groupes (Henkel, L’Oréal), entrepreneuriat et scale-ups tech.",
-      "about.p2": "Spécialisé en stratégie financière, optimisation de trésorerie et aide à la décision — je transforme la complexité en actions claires.",
-      "about.p3": "Je travaille en proximité avec CEO, CTO et direction commerciale pour aligner finance, produit, go-to-market et croissance via des modèles pragmatiques, un reporting transparent et une exécution disciplinée.",
+      "about.subtitle":
+        "Un profil finance qui relie stratégie et exécution : corporate, entrepreneuriat et tech.",
+      "about.p1":
+        "La qualité des décisions d’une entreprise est le reflet direct de la qualité de sa stratégie financière.",
+      "about.p2":
+        "Passionné par mon métier, j’évolue à l’intersection de la finance, de la stratégie et de l’exécution. J’ai construit mon parcours entre grands groupes internationaux (Henkel, L’Oréal, SoLocal), entrepreneuriat et scale-ups technologiques (SmartPixel, Studia), avec une constante : transformer la complexité financière en décisions claires et actionnables.",
+      "about.p3":
+        "Je suis spécialisé en stratégie financière, gestion de trésorerie, structuration et aide à la décision. Mon approche est volontairement pragmatique : des modèles simples mais robustes, un reporting lisible et une discipline d’exécution qui sert le business, pas l’inverse.",
+      "about.p4":
+        "Je travaille en proximité avec les CEO, CTO et directions commerciales afin d’aligner finance, produit, go-to-market et croissance. Mon rôle ne se limite pas à sécuriser les chiffres : il consiste à créer un cadre financier qui permet aux équipes de décider plus vite, d’arbitrer avec justesse et d’exécuter avec confiance.",
 
       "experience.title": "Expérience",
       "experience.subtitle": "Rôles sélectionnés — impact et périmètre.",
       "experience.r1.title": "Directeur financier — SmartPixel",
       "experience.r1.meta": "Montréal, Canada • Nov 2023 – Aujourd’hui",
-      "experience.r1.b1": "Structuration financière d’une plateforme SaaS : pricing, revenus récurrents, marges hybrides produit-service.",
-      "experience.r1.b2": "Financements sécurisés > 525K$ et projections 2025–2028 ; support aux négociations avec banques, partenaires et institutions.",
-      "experience.r1.b3": "Modèles intégrant RS&DE et CDAE pour optimiser le non-dilutif et la rentabilité.",
-      "experience.r1.b4": "Pilotage cash, budget, forecast, reporting et gouvernance ; supervision comptabilité, conformité, AR/AP et paie.",
+      "experience.r1.b1":
+        "Structuration financière d’une plateforme SaaS : pricing, revenus récurrents, marges hybrides produit-service.",
+      "experience.r1.b2":
+        "Financements sécurisés > 525K$ et projections 2025–2028 ; support aux négociations avec banques, partenaires et institutions.",
+      "experience.r1.b3":
+        "Modèles intégrant RS&DE et CDAE pour optimiser le non-dilutif et la rentabilité.",
+      "experience.r1.b4":
+        "Pilotage cash, budget, forecast, reporting et gouvernance ; supervision comptabilité, conformité, AR/AP et paie.",
 
       "experience.r2.title": "Contrôleur financier — SmartPixel",
       "experience.r2.meta": "Montréal, Canada • Juin 2022 – Nov 2023",
-      "experience.r2.b1": "Gestion AR/AP, paie et clôture mensuelle ; préparation des états financiers mensuels.",
-      "experience.r2.b2": "Réconciliations bilan et P&L ; contribution aux prévisions et budgets annuels.",
+      "experience.r2.b1":
+        "Gestion AR/AP, paie et clôture mensuelle ; préparation des états financiers mensuels.",
+      "experience.r2.b2":
+        "Réconciliations bilan et P&L ; contribution aux prévisions et budgets annuels.",
       "experience.r2.b3": "Structuration et encadrement de l’équipe comptable.",
 
       "experience.r3.title": "Sales Controller & Credit Manager — Henkel (Beauty Care)",
       "experience.r3.meta": "Paris, France • Jan 2021 – Jan 2022",
-      "experience.r3.b1": "Contrôle budgétaire et pilotage back-margins (remises, frais de coopération, conditions de paiement).",
-      "experience.r3.b2": "Automatisation facturation / data (SAP & Access) et amélioration reporting avec l’IT.",
-      "experience.r3.b3": "Analyses financières pour pricing, promotions, marges et préparation audits.",
+      "experience.r3.b1":
+        "Contrôle budgétaire et pilotage back-margins (remises, frais de coopération, conditions de paiement).",
+      "experience.r3.b2":
+        "Automatisation facturation / data (SAP & Access) et amélioration reporting avec l’IT.",
+      "experience.r3.b3":
+        "Analyses financières pour pricing, promotions, marges et préparation audits.",
 
-      "experience.r4.title": "Credit Manager / Pricing Manager — L’Oréal (Travel Retail, Moyen-Orient)",
+      "experience.r4.title":
+        "Credit Manager / Pricing Manager — L’Oréal (Travel Retail, Moyen-Orient)",
       "experience.r4.meta": "Paris, France • Déc 2019 – Déc 2020",
-      "experience.r4.b1": "Études pricing et construction de grilles tarifaires alignées avec la stratégie commerciale et la rentabilité.",
-      "experience.r4.b2": "Gestion complète crédit / remises ; amélioration des délais de paiement et conformité.",
-      "experience.r4.b3": "Analyses marges et profitabilité client pour aider la décision.",
+      "experience.r4.b1":
+        "Études pricing et construction de grilles tarifaires alignées avec la stratégie commerciale et la rentabilité.",
+      "experience.r4.b2":
+        "Gestion complète crédit / remises ; amélioration des délais de paiement et conformité.",
+      "experience.r4.b3":
+        "Analyses marges et profitabilité client pour aider la décision.",
 
       "experience.r5.title": "Fondateur & Président — L’Odyssée Verte",
       "experience.r5.meta": "France • 2019 – 2020",
-      "experience.r5.b1": "Création et pilotage d’un projet multimédia pédagogique et environnemental : partenariats, levées de fonds et exécution.",
+      "experience.r5.b1":
+        "Création et pilotage d’un projet multimédia pédagogique et environnemental : partenariats, levées de fonds et exécution.",
 
       "projects.title": "Projets",
-      "projects.subtitle": "Quelques initiatives — on affinera dès que tu me donnes tes side projects.",
+      "projects.subtitle":
+        "Quelques initiatives — on affinera dès que tu me donnes tes side projects.",
       "projects.p1.title": "Structuration financière SaaS",
-      "projects.p1.text": "Construction du pricing, modèles de revenus récurrents et marges hybrides pour soutenir la croissance.",
+      "projects.p1.text":
+        "Construction du pricing, modèles de revenus récurrents et marges hybrides pour soutenir la croissance.",
       "projects.p1.meta": "SmartPixel • Stratégie finance",
       "projects.p2.title": "Stratégie financement & non-dilutif",
-      "projects.p2.text": "Financements sécurisés et optimisation RS&DE/CDAE via gouvernance et reporting.",
+      "projects.p2.text":
+        "Financements sécurisés et optimisation RS&DE/CDAE via gouvernance et reporting.",
       "projects.p2.meta": "Financement • Crédits • Conformité",
       "projects.p3.title": "Modernisation process & reporting",
-      "projects.p3.text": "Amélioration de la cadence de reporting et de l’aide à la décision via modèles et discipline opérationnelle.",
+      "projects.p3.text":
+        "Amélioration de la cadence de reporting et de l’aide à la décision via modèles et discipline opérationnelle.",
       "projects.p3.meta": "FP&A • Contrôles",
 
       "skills.title": "Compétences",
@@ -201,12 +252,13 @@
       "skills.tags.investor": "Relation investisseurs",
 
       "contact.title": "Contact",
-      "contact.subtitle": "Pour un poste de direction, une mission advisory, ou une intro rapide.",
+      "contact.subtitle":
+        "Pour un poste de direction, une mission advisory, ou une intro rapide.",
       "contact.location": "Localisation",
       "contact.linkedin": "LinkedIn",
       "contact.emailBtn": "M’écrire",
-      "contact.cvBtn": "Ouvrir le CV (PDF)"
-    }
+      "contact.cvBtn": "Ouvrir le CV (PDF)",
+    },
   };
 
   const yearEl = document.getElementById("year");
