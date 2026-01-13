@@ -12,7 +12,7 @@
       "ui.ctaCV": "Download CV",
       "ui.ctaLinkedIn": "LinkedIn",
 
-      "hero.eyebrow": "Finance Director / CFO",
+      "hero.eyebrow": "Finance Director / CFO-style",
       "hero.subtitle":
         "I help tech companies structure growth, secure funding, and stay in control of cash, margins, and risk.",
       "hero.pills.p1": "Strategic finance",
