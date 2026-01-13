@@ -303,6 +303,7 @@ ul{margin:0; padding-left: 1.1rem}
   margin: 0 0 1rem;
   color: rgba(231,236,247,0.92);
   max-width: 80ch;
+  text-align: justify;
 }
 .prose p:last-child{margin-bottom:0}
 
@@ -425,4 +426,7 @@ ul{margin:0; padding-left: 1.1rem}
   .split{grid-template-columns: 1fr}
   .contact-card{grid-template-columns: 1fr}
   .nav{display:none}
+
+  /* Better readability on mobile */
+  .prose p{ text-align: left; }
 }
