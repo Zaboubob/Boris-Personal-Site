@@ -151,7 +151,7 @@ ul{margin:0; padding-left: 1.1rem}
 }
 .hero__grid{
   display:grid;
-  grid-template-columns: 1.2fr .8fr;
+  grid-template-columns: 1.2fr .55fr .75fr; /* content | photo | highlights */
   gap: 2rem;
   align-items:start;
 }
@@ -193,6 +193,21 @@ ul{margin:0; padding-left: 1.1rem}
 .meta-dot{
   width: 5px; height:5px; border-radius: 999px;
   background: rgba(255,255,255,0.25);
+}
+
+/* HERO IMAGE */
+.hero__image{
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+}
+.hero-photo{
+  width: 100%;
+  max-width: 360px;
+  border-radius: 18px;
+  box-shadow: 0 24px 48px rgba(0,0,0,0.45);
+  filter: grayscale(100%);
+  border: 1px solid rgba(255,255,255,0.10);
 }
 
 .pill-list{
@@ -403,6 +418,9 @@ ul{margin:0; padding-left: 1.1rem}
 /* Responsive */
 @media (max-width: 980px){
   .hero__grid{grid-template-columns: 1fr}
+  .hero__image{order: 2; margin-top: 1.25rem;}
+  .hero__card{order: 3; margin-top: 1.25rem;}
+
   .grid{grid-template-columns: 1fr}
   .split{grid-template-columns: 1fr}
   .contact-card{grid-template-columns: 1fr}
