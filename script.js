@@ -24,13 +24,13 @@
       "hero.meta": "Open to leadership opportunities",
 
       "hero.card.title": "Highlights",
-      "hero.card.kpi1": "+$525K",
-      "hero.card.txt1": "Financing secured to support SaaS structuring & growth",
-      "hero.card.kpi2": "2025–2028",
-      "hero.card.txt2": "Multi-year projections & governance frameworks",
-      "hero.card.kpi3": "RS&DE / CDAE",
-      "hero.card.txt3": "Non-dilutive funding optimization & compliance",
-      "hero.card.badge": "Corporate → Entrepreneur → Tech scale-up",
+      "hero.card.kpi1": "5+ years",
+      "hero.card.txt1": "Financial strategy & performance management (corporate, tech scale-up, entrepreneurship)",
+      "hero.card.kpi2": "+$525K",
+      "hero.card.txt2": "Financing secured to support SaaS structuring & growth",
+      "hero.card.kpi3": "+$350K",
+      "hero.card.txt3": "Tax credits secured over the last 2 years (tech company with ~$4M in annual revenue)",
+
 
       "about.title": "About",
       "about.subtitle":
@@ -40,9 +40,9 @@
       "about.p2":
         "I’m passionate about finance at the intersection of strategy and execution. I built my career across global corporates (Henkel, L’Oréal, SoLocal), entrepreneurship, and tech scale-ups (SmartPixel, Studia), with one constant: turning financial complexity into clear, actionable decisions.",
       "about.p3":
-        "I specialize in financial strategy, cash management, structuring, and decision support. My approach is deliberately pragmatic: simple but robust models, readable reporting, and execution discipline that serves the business — not the other way around.",
+        "I specialize in financial strategy, cash management, structuring, and decision support. My approach is deliberately pragmatic: simple but robust models, readable reporting, and execution discipline that serves the business, not the other way around.",
       "about.p4":
-        "I work closely with CEOs, CTOs, and commercial leadership to align finance, product, go-to-market, and growth. My role isn’t only to secure the numbers — it’s to create a financial framework that helps teams decide faster, arbitrate wisely, and execute with confidence.",
+        "I work closely with CEOs, CTOs, and commercial leadership to align finance, product, go-to-market, and growth. My role isn’t only to secure the numbers, it’s to create a financial framework that helps teams decide faster, arbitrate wisely, and execute with confidence.",
 
       "experience.title": "Experience",
       "experience.subtitle": "Selected roles focused on impact and scope.",
@@ -154,13 +154,13 @@
       "hero.meta": "Ouvert aux opportunités de leadership",
 
       "hero.card.title": "Points clés",
-      "hero.card.kpi1": "+525K$",
-      "hero.card.txt1": "Financements sécurisés pour structuration SaaS & croissance",
-      "hero.card.kpi2": "2025–2028",
-      "hero.card.txt2": "Projections pluriannuelles & cadres de gouvernance",
-      "hero.card.kpi3": "RS&DE / CDAE",
-      "hero.card.txt3": "Optimisation non dilutive & conformité",
-      "hero.card.badge": "Corporate → Entrepreneur → Tech scale-up",
+      "hero.card.kpi1": "5+ ans",
+      "hero.card.txt1": "Stratégie financière & pilotage de la performance (corporate, scale-up tech, entrepreneuriat)",
+      "hero.card.kpi2": "+525K$",
+      "hero.card.txt2": "Financements sécurisés pour structuration SaaS & croissance",
+      "hero.card.kpi3": "+350K$",
+      "hero.card.txt3": "Crédits d’impôt obtenus sur les 2 dernières années (entreprise tech ~4 M$ de revenus annuels)",
+
 
       "about.title": "À propos",
       "about.subtitle":
