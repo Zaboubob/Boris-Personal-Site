@@ -92,7 +92,7 @@
 
       "projects.title": "Projects",
       "projects.subtitle":
-        "A few initiatives I’m proud of. (We’ll refine once you list your side projects.)",
+        "A few initiatives I’m proud of.",
       "projects.p1.title": "SaaS Platform Financial Structuring",
       "projects.p1.text":
         "Built pricing logic, recurring revenue models, and hybrid margins to support scalable growth.",
@@ -123,7 +123,7 @@
       "skills.tags.investor": "Investor communication",
 
       "contact.title": "Contact",
-      "contact.subtitle": "For leadership roles, advisory, or a quick intro — reach out.",
+      "contact.subtitle": "For leadership roles, advisory, or a quick intro : Reach me out.",
       "contact.location": "Location",
       "contact.linkedin": "LinkedIn",
       "contact.emailBtn": "Email me",
@@ -221,7 +221,7 @@
 
       "projects.title": "Projets",
       "projects.subtitle":
-        "Quelques initiatives — on affinera dès que tu me donnes tes side projects.",
+        "Quelques initiatives dont je suis fier !",
       "projects.p1.title": "Structuration financière SaaS",
       "projects.p1.text":
         "Construction du pricing, modèles de revenus récurrents et marges hybrides pour soutenir la croissance.",
@@ -253,7 +253,7 @@
 
       "contact.title": "Contact",
       "contact.subtitle":
-        "Pour un poste de direction, une mission advisory, ou une intro rapide.",
+        "Pour un poste de direction, une mission , ou une introduction rapide.",
       "contact.location": "Localisation",
       "contact.linkedin": "LinkedIn",
       "contact.emailBtn": "M’écrire",
